@@ -21,13 +21,13 @@ export const ContactList = [
     },
     {
         type: 'Discord',
-        name: 'yeshealer#1507',
-        link: 'https://discord.com'
+        name: 'Sharp#9612',
+        link: 'https://discord.com/Sharp#9612'
     },
     {
         type: 'Telegram',
         name: '@sharp_rk_123',
-        link: 'https://t.me/yeshealer'
+        link: 'https://t.me/sharp_rk_123'
     },
     {
         type: 'Whatsapp',
