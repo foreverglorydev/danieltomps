@@ -9,7 +9,7 @@ export const HomeSocialIcon: HomeSocialIconTypes[] = [
     },
     {
         name: 'twitter',
-        link: 'https://twitter.com/CuiAdan'
+        link: 'https://twitter.com/DanielTomps'
     },
     {
         name: 'google',
