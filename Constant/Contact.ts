@@ -17,7 +17,7 @@ export const ContactList = [
     {
         type: 'Twitter',
         name: '@DanielTomps',
-        link: 'https://twitter.com/DanielTomps'
+        link: ''   //https://twitter.com/DanielTomps
     },
     {
         type: 'Discord',
