@@ -15,7 +15,7 @@ const Header = () => {
                         )
                     })}
                 </div>
-                <div className={styles.headerTitle}>Kai Min - Visual Studio Code</div>
+                <div className={styles.headerTitle}>Daniel Tomps - Visual Studio Code</div>
                 <div className={styles.headerBtnGroup}>
                     {HeaderButtonColor.map((buttonColor: string) => {
                         return (

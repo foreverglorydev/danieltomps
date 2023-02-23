@@ -21,7 +21,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className={styles.rightSide}>
-                    <div className={styles.hoverEffect}>@Kai Min</div>
+                    <div className={styles.hoverEffect}>@Daniel Tomps</div>
                     <div className={`${styles.prettier} ${styles.hoverEffect}`}>
                         <Icon icon="akar-icons:double-check" width="16" height="16" />
                         <div>Prettier</div>

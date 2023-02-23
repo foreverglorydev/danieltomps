@@ -8,7 +8,7 @@ export default function github() {
         <div className={styles.container}>
             <Head>
                 <title>Daniel Tomps | Contact</title>
-                <meta name="description" content="Kai Min | Senior Blockchain Developer" />
+                <meta name="description" content="Daniel Tomps | Senior Blockchain Developer" />
                 <link rel="icon" href="ico/home.ico" />
             </Head>
             <TopBar selectedId={7} />
