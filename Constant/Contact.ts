@@ -31,17 +31,12 @@ export const ContactList = [
     },
     {
         type: 'Whatsapp',
-        name: '+1 562 245 2496',
-        link: 'https://api.whatsapp.com/send?phone=+15622452496&text=Hello'
+        name: '+86 1550 415 0993',
+        link: 'https://api.whatsapp.com/send?phone=+8615504150993&text=Hello'
     },
     {
         type: 'Skype',
         name: 'handsome112',
         link: 'https://join.skype.com/invite/BkdGgxqSeZxJ'
-    },
-    {
-        type: 'Phone',
-        name: '+1 562 245 2496',
-        link: '/'
     }
 ]
