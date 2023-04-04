@@ -38,5 +38,10 @@ export const ContactList = [
         type: 'Skype',
         name: 'handsome112',
         link: 'https://join.skype.com/invite/BkdGgxqSeZxJ'
+    },
+    {
+        type: 'Phone',
+        name: '+1 562 245 2496',
+        link: '/'
     }
 ]
