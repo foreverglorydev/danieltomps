@@ -30,11 +30,6 @@ export const ContactList = [
         link: 'https://t.me/sharp_rk_123'
     },
     {
-        type: 'Whatsapp',
-        name: '+86 1550 415 0993',
-        link: 'https://api.whatsapp.com/send?phone=+8615504150993&text=Hello'
-    },
-    {
         type: 'Skype',
         name: 'handsome112',
         link: 'https://join.skype.com/invite/BkdGgxqSeZxJ'
